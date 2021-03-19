@@ -1,0 +1,5 @@
+Alpha: 0.1 entropy: 9.055364846299119
+Alpha: 0.3 entropy: 15.447328786305013
+Alpha: 0.9 entropy: 70.0082437520481
+Alpha: 0.5 entropy: 24.966258269333018
+Alpha: 0.7 entropy: 39.1520280552699
